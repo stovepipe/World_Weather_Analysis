@@ -33,6 +33,10 @@ MANIFEST
 # Adding config.py file.
 config.py
 
+# Adding additional files
+random_numbers.ipynb
+API_practice.ipynb
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
