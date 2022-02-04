@@ -3,7 +3,7 @@
 
 ## WeatherPy Project
 
-  This project consisted of generating random latitudes and longitudes, gathering weather data from an api for each coordinate, and associating them with the nearest cities using citipy. From there, using the Google Places and Google Directions API, gmaps were created to show the cities on the map, along. with the associated weather data and hotel data. A brief explanation of the files can be found below:
+  This project consisted of generating random latitudes and longitudes, gathering weather data from an api for each coordinate, and associating them with the nearest cities using citipy. From there, using the Google Places and Google Directions API's, gmaps were created to show the cities on the map, along with the associated weather and hotel data. A brief explanation of the files can be found below:
   
 ### Weather_Database.ipynb
 
