@@ -32,10 +32,16 @@ MANIFEST
 
 # Adding config.py file.
 config.py
+cities.csv
 
 # Adding additional files
+Google_Nearby_Search.ipynb
 random_numbers.ipynb
 API_practice.ipynb
+Fig1.png
+Fig2.png
+Fig3.png
+Fig4.png
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
